@@ -1,0 +1,7 @@
+[Rules]
+outlier_threshold_gb = 381.47
+outlier_threshold_percent = 80.0
+
+[Parameters]
+check_interval = 5  # Seconds between checks
+outlier_probability = 0.15  # 15% probability of outliers
